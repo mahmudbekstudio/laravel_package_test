@@ -1,8 +1,8 @@
 <?php
-namespace Devdojo\Calculator\App\Http\Controllers;
+namespace Mahmudbekstudio\Calculator\App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Devdojo\Calculator\App\Http\Controllers\Controller;
+use Mahmudbekstudio\Calculator\App\Http\Controllers\Controller;
 
 class CalculatorController extends Controller
 {
